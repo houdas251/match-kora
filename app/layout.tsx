@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   keywords: ["كرة قدم", "نتائج مباريات", "Match Kora", "Foot en direct", "Scores live"],
   // ... باقي إعدادات الـ SEO اللي عملناها
   verification: {
-    google: "6qsfV6N-QN0FQXjW7Ah7cjA_M-Dt240tCiNaNdNLC4Q" // حط الكود بالكامل هنا
+    google: "" // حط الكود بالكامل هنا
   },
 };
 
