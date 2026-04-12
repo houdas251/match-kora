@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   description: "نتائج المباريات وإحصائيات كرة القدم لحظة بلحظة - Résultats de foot en direct et statistiques.",
   keywords: ["كرة قدم", "نتائج مباريات", "Match Kora", "Foot en direct", "Scores live"],
   // ... باقي إعدادات الـ SEO اللي عملناها
+  verification: {
+    google: "6qsfV6N-QN0FQXjW7Ah7cjA_M-Dt240tCiNaNdNLC4Q" // حط الكود بالكامل هنا
+  },
 };
 
 export default function RootLayout({
