@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/api/', // بنمنع جوجل يدخل على ملفات الـ API بتاعتك
     },
-    sitemap: 'https://your-domain.com/sitemap.xml',
+   sitemap: 'https://match-kora.vercel.app/sitemap.xml',
   }
 }
