@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://match-kora.vercel.app/sitemap.xml
+Sitemap: https://match-kora-beta.vercel.app/sitemap.xml
